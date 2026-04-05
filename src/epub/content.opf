@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/sim_ludgate_november-1893-april-1894_6</dc:source>
 		<!-- Jack: A Mendicant -->
 		<dc:source>https://archive.org/details/jackmendicant01pirk</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Dedications stripped: styling for short fiction not obvious, and they didn’t add much.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
